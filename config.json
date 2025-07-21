@@ -77,5 +77,13 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     }
+    "cj": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "cj资源"
+    }
+    "qiqi": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod",
+      "name": "qiqi资源"
+    }
   }
 }
